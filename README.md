@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kritikas06
-- 👀 I’m interested in Front end developing.
+- 👀 I’m interested in Frontend developing.
 - 🌱 I’m currently learning DSA with Java and javascript.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me through linkedin - https://www.linkedin.com/in/kritika-chauhan-72b998253
 
 <!---
 Kritikas06/Kritikas06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
